@@ -252,5 +252,14 @@
       "The files contain the wrong readings!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787129821.091703,
+    "completed_at": 1787129823.777394,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
